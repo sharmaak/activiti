@@ -1,3 +1,7 @@
+docker run -d -p 8080:8080 --name dkact -e 'DB_PASS=Abcd@1234' -e 'DB_NAME=activiti' dkact:latest
+
+
+
 # Table of Contents
 - [Introduction](#introduction)
     - [Version](#version)
